@@ -1,2 +1,1 @@
-I run Ubuntu server on a thinkcentre 715q. Other than that I have a raspberry pi that I test my scripts on first before I deploy them to my thinkcentre which I am currently using as my main server.
-
+I run Windows Server 2025 with a domain controller on my Thinkcentre 715q server. I plan on converting this from baremetal to Proxmox and getting 2 other thinkcentres to create a 3 node cluster running multiple DC's.
